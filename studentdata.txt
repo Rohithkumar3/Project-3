@@ -1,0 +1,8 @@
+Rohithkumar Class-A
+Rajesh      Class-B
+Ajith       Class-B
+Pooja       Class-A
+Srihitha    Class-C
+Kiran       Class-B
+Priyanka    Class-C
+Kalyan      Class-A
